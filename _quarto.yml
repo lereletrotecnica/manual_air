@@ -1,0 +1,85 @@
+project:
+  type: book
+  output-dir: docs
+
+
+book:
+  title: "Manual Operacional do Assistente Inteligente de Reuniões - AIR"
+  author: "Secretaria Executiva - MMulheres"
+  #date: today
+  reader-mode: true
+  page-navigation: true
+  page-footer:
+   background: "#641f99"
+   center:
+    - text: "Ministério das Mulheres - MMulheres"
+      href: https://www.gov.br/mulheres/pt-br
+    - text: "Secretaria Executiva - SE"
+      href: www.gov.br/mulheres/pt-br/acesso-a-informacao/institucional/secretarias/secretaria-executiva
+    - text: "Secretaria Nacional de Políticas de Enfrentamento à Violência contra Mulheres - Senev "
+      href: www.gov.br/mulheres/pt-br/acesso-a-informacao/institucional/secretarias/senev
+    - text: "Secretaria Nacional de Articulação Institucional, Ações Temáticas e Participação Política - Senatp"
+      href: www.gov.br/mulheres/pt-br/acesso-a-informacao/institucional/secretarias/senatp
+    - text: "Secretaria Nacional de Autonomia Econômica e Política de Cuidados - Senaec"
+      href: https://www.gov.br/mulheres/pt-br/acesso-a-informacao/institucional/secretarias/senaec
+  cover-image: img/marca_mm3.png
+  #logo: images/brasao_ouvidoria.jpeg
+  image: img/marca_mm1.png
+  site-url: https://www.gov.br/mulheres/pt-br/acesso-a-informacao
+  sharing: [twitter, facebook, linkedin]
+  search:
+    location: sidebar
+    type: textbox
+
+  sidebar:
+    font.family: 'Calibri'
+    title: "Assistente Inteligente de Reuniões"
+    subtitle: "Material de apoio"
+    background: "white"
+    items:
+    logo: img/marca_mm2.png
+    style: docked
+    alignment: left
+    tools:
+      - icon: git
+      - href: https://www.gov.br/mulheres/pt-br/acesso-a-informacao
+
+  chapters:
+    - index.qmd
+    - informacoes_iniciais.qmd
+    - introducao.qmd
+    - criacao_air.qmd
+    #- calculadora.qmd
+
+
+
+bibliography: referencias.bib
+
+format:
+  html:
+    embed-resources: false #COLOCA TODOS OS ARQUIVOS JUNTOS
+    theme: cosmo
+    code-link: true
+    css: style.css
+    #page-layout: custom
+  pdf:
+    documentclass: scrreprt
+
+knitr:
+  opts_chunk:
+    fig.align: "center"
+    message: false
+    echo: false
+    results: true
+    dpi: 300
+    warning: false
+    out-width: NULL
+    fig.responsive: TRUE
+
+
+lang: pt
+csl: abnt.csl
+
+editor: visual
+
+

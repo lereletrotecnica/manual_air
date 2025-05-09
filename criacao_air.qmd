@@ -1,0 +1,150 @@
+# Utilização da Inteligência Artificial no Microsoft Teams {#sec-calculadora}
+
+A ferramenta de inteligência articial (IA) da Microsoft chama-se Copilot. Nesse sentido, ela está disponível a todos os colaboradores do MMulheres inserida ao *Microsoft Office 365.* Para instalação do Copilot, seguir as instruções:
+
+1.  No Microsoft Teams, clique no ícone de **“+ Aplicações”** localizado na barra lateral esquerda;
+2.  Na barra de pesquisa, digite **“Copilot”**;
+3.  Clique na opção **“Adicionar Copilot”** (geralmente a primeira da lista);
+4.  Após a adição, o Copilot será exibido na sua barra lateral;
+5.  Caso ele desapareça da barra, clique no menu de **três pontos (...)** na barra lateral e selecione **Copilot** novamente para acessá-lo.
+
+O video a seguir mostra o passo-a-passo para instalação do Copilot no Microsoft Teams.
+
+{{< video https://sdhgovbr-my.sharepoint.com/:v:/g/personal/victoria_silva_mulheres_gov_br/Ef17ZFwK1sZCisz-TBOT91EBx7w5b4QbzcMrmMup2ui3Vw?e=Xr7818 >}}
+
+# Criação do Assistente Inteligente de Reuniões - AIR
+
+A @fig-img_fluxo1 abaixo traz o fluxo de procedimentos necessários à criação do AIR a partir do Microsoft Teams.
+
+![Fluxo de procedimentos para reuniões on-line.](img/img_fluxo1.PNG){#fig-img_fluxo1 fig-align="center"}
+
+A seguir, siga os passos e crie o seu próprio assistente inteligente de reuniões:
+
+1.  No Microsoft Teams, clique nos três pontos no canto esquerdo;
+2.  Acesse o Copilot;
+3.  No canto superior direito, clique em **"Criar Agente"**;
+4.  Preencha o *prompt* (campo) com a seguinte solicitação (copie e cole o texto):
+
+*"Criar agente de reunião. Com base na transcrição da reunião, o agente deverá elaborar: Atas de reunião, Cronogramas, Fluxos, Relatório de progresso e Encaminhamentos da reunião."*
+
+5.  O sistema sugerirá um nome para o assistente, então digite no *prompt*: “Desejo que o nome do agente de reunião seja: *Assistente inteligente de reuniões*”;
+6.  Se houver configurações para ajustar ou complementar, informe na caixa de diálogo (*prompt*), caso contrário, digite “Não”;
+7.  Digite “*Não*” para a pergunta “*Você tem algum site público que gostaria de incluir como fonte de dados?*”;
+8.  Clique em **"*Criar*"** no canto superior direto da tela;
+9.  Clique em “*Alterar configurações de compartilhamento*”, caso queira compartilhar o seu “*Agente inteligente de reuniões*”.
+
+::: callout-important
+*A ferramenta de inteligência artificial "aprende" com o passar do tempo e com suas atualizações, nesse sentido, as configurações solicitadas aos usuários podem variar a cada momento. Dessa forma, basta ler e concordar / não concordar com os ajustes sugeridos pela ferramenta. Porém, este manual fornece as informações básicas à criação e operação do assistente inteligente de reuniões - AIR.*
+:::
+
+::: callout-tip
+*A Coordenação-Geral de Tecnologia da Informação fornece o AIR, já configurado, com possibilidade de uso compartilhado por todos os colaboradores do MMulheres. Para usá-lo, clique no link: XXXXXXXXXXXXXXXXXXX.*
+:::
+
+O vídeo a seguir traz os procedimentos acima listados.
+
+{{< video https://sdhgovbr-my.sharepoint.com/:v:/g/personal/victoria_silva_mulheres_gov_br/Ef17ZFwK1sZCisz-TBOT91EBx7w5b4QbzcMrmMup2ui3Vw?e=Xr7818 >}}
+
+# Utilização do Assistente Inteligente de Reuniões - AIR {#sec-dicas-basicas}
+
+As reuniões dentro do MMulheres podem acontecer de diversas maneiras e as mais recorrentes são:
+
+1.  **reuniões on-line:** todos os participantes utilizam seus próprios dispositivos tecnológicos separadamente. Nessa situação, cada participante acessa o Microsoft Teams em sua própria conta a partir do seu próprio dispositivo (desktop, notebook, smartphone, entre outros). Esse é o melhor cenário para a utilização do AIR, pois todos os participantes podem ser identificados pelo aplicativo e, consequentemente, suas falas transcritas separadamente;
+2.  **reuniões presenciais:** todos os participantes estão em um único lugar físico. Nesse caso, há a necessidade da utilização um computador para captação do áudio dos participantes. Caso o número de participantes seja elavado e/ou o espaço seja amplo, sugere-se o uso de microfones externos para melhor captação das discussões. Nessa situação, uma pessoa deve configurar a reunião no Microsoft teams e, dessa forma, somente ela será identificada na transcrição da reunião. Para amenizar esse problema algumas dicas de reunião constam na seção XXXXX;
+3.  **reuniões híbridas:** neste cenário, os participantes reunem-se fisicamente e virtualmente, ou seja, esse tipo de encontro possui características de reuniões on-line e presenciais e, consequentemente, os procedimentos devem ser híbridos, conforme seção XXXXX.
+
+## Instruções para Reuniões On-Line
+
+A @fig-img_fluxo2 abaixo mostra o fluxo dos procedimentos pare realização de reuniões on-line.
+
+![Fluxo de procedimentos para reuniões on-line.](img/img_fluxo2.PNG){#fig-img_fluxo2 fig-align="center"}
+
+A seguir, as instruções:
+
+1.  Criar e iniciar a reunião;
+
+2.  Ativar transcrição (Detalhar como ativar a transcrição);
+
+3.  Encerrar a reunião;
+
+4.  Baixe o arquivo da transcrição (Detalhar onde baixar esse arquivo);
+
+5.  Acessar os três pontos no canto inferior esquerdo do Teams e abrir o Copilot;
+
+6.  Selecionar **"Agente inteligente de reuniões - AIR"** no canto superior direito;
+
+7.  Fazer o upload do arquivo de transcrição. Caso o arquivo exceda o limite suportado, divida-o em partes;
+
+8.  Solicitar a geração de documentos como atas, cronogramas ou outros registros necessários;
+
+9.  Se houver necessidade de ajustes, realizar alterações diretamente no *prompt* ou solicitar ao assistente;
+
+10. Selecionar e copiar o texto gerado pelo AIR e colar em alguma ferramenta de edição de textos e/ou gráficos (Word, Adobe, Inkspace, entre outros).
+
+## Instruções para Reuniões Presenciais
+
+A @fig-img_fluxo3 abaixo mostra o fluxo dos procedimentos pare realização de reuniões presenciais.
+
+![Fluxo de procedimentos para reuniões on-line.](img/img_fluxo3.PNG){#fig-img_fluxo3 fig-align="center"}
+
+Ao fim dos seguintes procedimentos, o AIR terá elaborado os produtos solicitados, conforme configuração inicial do assistente. Para reuniões presenciais, é necessário um dispositivo conectado a internet equipado com câmera e microfone para captação de aúdio. Nesse sentido, pode-se usar um computador, notebook, smartphone, tablet, etc.
+
+Ao contrário das reuniões on-line, a ferramenta de transcrição não consegue identificar os participantes das reuniões nos modelos presencial e híbrido,consequentemente, não traz os nomes deles no texto trancrito.
+
+::: callout-caution
+*Para reuniões com muitas pessoas e/ou em locais muito amplos, sugere-se o uso de microfones externos conectados ao computador para melhorar a captação do áudio.*
+:::
+
+1.  Utilizar um **dispositivo com Microsoft Teams** instalado (equipamento com microfone funcional);
+2.  Criar uma **reunião no Teams**, mesmo que ninguém entre online;
+3.  Iniciar a reunião no dispositivo e ativar a **transcrição** no ícone "Mais ..." (menu superior direito);
+4.  Posicionar o dispositivo de forma que o áudio da reunião seja bem captado;
+5.  Conduzir a reunião normalmente (verificar dicas de reunião na seção XXXX);
+6.  Encerrar a reunião e baixar a **transcrição automática** gerada pelo Teams;
+7.  Acessar os **três pontos** no canto inferior esquerdo do Teams e abrir o **Copilot**;
+8.  Selecionar **"Agente inteligente de reuniões"** no canto superior direito;
+9.  Fazer o **upload da transcrição**;
+10. Solicitar a criação de documentos como atas, cronogramas, fluxos etc;
+11. Solicitar ajustes diretamente ao assistente, se necessário.
+
+## Instruções para Reuniões Híbridas
+
+As reuniões híbridas possuem características mistas entre encontros on-line e presenciais. Nesse sentido, os procedimentos se misturam com ênfase e cuidados maiores em relação aos procedimentos da reuniões presenciais. Portanto, as ações para reiniões presenciais são totalmente aplicáveis aos encontros híbridos.
+
+# Dicas e Procedimentos para Otimização do Assistente Inteligente de Reuniões - AIR
+
+Para otimização do uso da IA, pode-se organizar a reunião de maneira que os documentos gerados pela ferramenta (atas, fluxos, etc) serão mais claros e menos dependentes de intervenção humana.
+
+## Reuniões On-Line
+
+As reuniões on-line é o melhor cenário para o uso do AIR, pois a captação do áudio e imagem é superior devido à captação individual de cada participante e, além disso, a IA consegue identificar cada participante e suas respectivas falas. Esses fatos melhoram a qualidade do produto final consideravelmente. Nesse sentido, pode-se tomar algumas ações para otimizar a elaboração do produto final:
+
+-   Estabelecer e identificar o responsável pela reunião. Essa responsabilização se dá de forma oral após o acionamento da ferramenta de transcrição;
+
+-   Organizar a reunião em etapas, por exemplo, pauta, discussão, encaminhamento, etc.
+
+-   O responsável deve estabelecer / informar, oralmente, as transições de cada etapa da reunião como, por exemplo, dizendo: *"A pauta da reunião será...", "O primeiro assunto discutido será...", "Agora, vamos iniciar os encaminhamentos: 1°) Fulano será responsável por...";*
+
+-   Utilizar modelos de atas e afins para definir o roteiro do encontro.
+
+## Reuniões Presenciais
+
+As reuniões presenciais apresentam uma situação mais complicada à elaboração dos documentos de reunião por parte da inteligência artificial, pois, ao contrário das reuniões on-line, a ferramenta de transcrição não consegue identificar os participantes das reuniões nos modelos presencial e híbrido e, consequentemente, não traz os nomes deles no texto trancrito. Nesse sentido, algumas dicas de organização da reunião podem minimizar o problema e agilizar o processo de elaboração dos produtos dos encontros.
+
+-   Estabelecer e identificar o responsável pela reunião. Essa responsabilização se dá de forma oral após o acionamento da ferramenta de transcrição;
+
+-   Organizar a reunião em etapas, por exemplo, pauta, discussão, encaminhamento, etc.
+
+-   Inicie a reunião com a lista dos participantes (essa etapa pode ser realizada diretamente no texto transcrito após a reunião);
+
+-   Informe, oral e claramente, a finalidade e local da reunião, por exemplo: "*Vamos iniciar a reunião no local X com o objeto de discutir a seguinte pauta*";
+
+-   Identique quem está falando antes de cada argumento importante, tal como: "*Nesse momento, Fulano vai esclarecer o assunto tal*" ou "*Eu, Fulano vou explicar o assunto X*";
+
+-   O responsável deve estabelecer / informar, oralmente, as transições de cada etapa da reunião como, por exemplo, dizendo: *"A pauta da reunião será...", "O primeiro assunto discutido será...", "Agora, vamos iniciar os encaminhamentos: 1°) Fulano será responsável por...";*
+
+-   Evite conversas paralelas ou sobreposição de falas, pois prejudica a captação do áudio, além de confundir a transcrição automática;
+
+-   Fale clara e pausadamente e, se possível, próximo ao microfone;
+
+-   Se possível, faça um resumo oral da reunião. Esse procedimento ajuda o assistente a consolidar corretamente os documentos. Exemplo: "*Resumo: Hoje discutimos dois pontos principais; Encaminhamentos: João tomará a ação X; Maria se responsabilizará por Y procedimento*"

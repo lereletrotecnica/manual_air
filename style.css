@@ -1,0 +1,69 @@
+```{css}
+body{
+  text-align: justify;
+  font-family: 'Calibri', sans-serif;
+  /*background-color: #294661;
+  opacity: 1.0;*/
+}
+
+h1,h2,h3,h4{
+  color: #641f99;
+  font-family: 'Calibri', sans-serif;
+  text-align: justify;
+  text-decoration-color: #641f99;
+}
+
+nav.sidebar{
+  font-family: 'Calibri', sans-serif;
+  text-align: start;
+
+}
+
+nav{ /*barra de navegacao a direita*/
+  text-align: start;
+}
+
+
+li,ol,menu,dl,{
+  font-family: 'Calibri', sans-serif;
+  text-align: start;
+  color: #641f99 ;
+  text-decoration-color: #641f99;
+}
+
+p.numbered:before{
+  content: counter(mynum) ": ";
+  counter-increment: mynum;
+  font-weight: bold;
+  color: #641f99 ;
+  }
+
+menu.numbered:before{
+  content: counter(mynum) ": ";
+  counter-increment: mynum;
+  font-weight: bold;
+  color: #641f99 ;
+  }
+
+li.numbered:before{
+  content: counter(mynum) ": ";
+  counter-increment: mynum;
+  font-weight: bold;
+  color: #641f99 ;
+  }
+
+ol.numbered:before{
+  content: counter(mynum) ": ";
+  counter-increment: mynum;
+  font-weight: bold;
+  color:#641f99 ;
+  }
+
+dl.numbered:before{
+  content: counter(mynum) ": ";
+  counter-increment: mynum;
+  font-weight: bold;
+  color: #641f99 ;
+  }
+
+```

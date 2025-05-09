@@ -1,0 +1,5 @@
+# Introdução {.unnumbered}
+
+Produzir um bom material de consulta e aplicação de procedimentos operacionais - voltado ao incentivo da obtenção de autonomia dos servidores no uso de tecnologias da informação - se torna primordial ao bom andamento do trabalho cotidiano no Ministério das Mulheres.
+
+Nesse sentido, este manual abarca os procedimento de criação e utilização do Assistente Inteligente de Reuniões (AIR). Essa metodologia é utlizada com equipamentos e softwares já pertencentes ao parque tecnológico do MMulheres, dessa forma, não possui custo adicional envolvido.

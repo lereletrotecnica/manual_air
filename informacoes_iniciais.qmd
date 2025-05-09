@@ -1,0 +1,19 @@
+# Informações Iniciais {.unnumbered}
+
+É com muito prazer que elaboramos este material de apoio à utilização do Assistente Inteligente de Reuniões e esperamos que ele o ajude a desenvolver o seu trabalho em todos os aspectos.
+
+O **Assistente Inteligente de Reuniões - AIR -** é uma metodologia que utiliza inteligência artificial e ajuda a organizar reuniões, sejam **presenciais**, **online** ou **híbridas**. Com ele, você pode **criar atas**, **cronogramas**, **fluxos de trabalho** e **relatórios** com base no que foi discutido na reunião. Cada pessoa pode criar o seu próprio assistente de acordo com suas próprias necessidades e/ou pode utilizar um assistente já configurado e compartilhado por outros usuários. Este manual orienta a criação e utilização do Assistente Inteligente de Reuniões no Microsoft Teams.
+
+::: callout-important
+O AIR só funciona com base na **transcrição do encontro**, ou seja, você precisa ativar a **transcrição** antes do início da reunião.
+:::
+
+::: callout-warning
+O uso da Inteligência Artificial para elaboração dos documentos de reuniões não dispensa a necessidade de revisão humana de tais documentos.
+:::
+
+Por fim, este material não esgota as possibilidades de uso da IA e, cada servidor, tem total autonomia de gerenciar a criação e o uso de um assistente de reunião.
+
+Aproveite bem este material.
+
+Bom trabalho!!!
